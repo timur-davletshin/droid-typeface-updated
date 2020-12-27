@@ -4,7 +4,7 @@ FullName: Droid Sans
 FamilyName: Droid Sans
 Weight: Book
 Copyright: Digitized data copyright (c) 2007, Google Corporation.\nCopyright (c) 2020 Timur I. Davletshin.
-Version: 1.1
+Version: 1.15
 ItalicAngle: 0
 UnderlinePosition: -205
 UnderlineWidth: 102
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1165263488
-ModificationTime: 1606027245
+ModificationTime: 1607581438
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2858,7 +2858,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "Digitized data copyright +AKkA 2007, Google Corporation.+AAoA-Copyright +AKkA 2020 Timur I. Davletshin." "" "Regular" "Droid Sans" "" "Version 1.1" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Droid Sans"
+LangName: 1033 "Digitized data copyright +AKkA 2007, Google Corporation.+AAoA-Copyright +AKkA 2020 Timur I. Davletshin." "" "Regular" "Ascender - Droid Sans" "" "Version 1.15" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation" "" "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Droid Sans"
 GaspTable: 2 5 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
